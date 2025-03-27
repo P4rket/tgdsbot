@@ -1,3 +1,5 @@
+Reference: https://github.com/solarezz/DS-TG-BOT
+
 Bot for synchronizing chats between Telegram and Discord channels. You will need a hosting service or a Linux machine running continuously, otherwise,
 the application will only work when manually launched. Use it wherever, however, and as much as you want.
 
